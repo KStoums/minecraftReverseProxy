@@ -13,3 +13,9 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+/.idea/discord.xml
+/.idea/.gitignore
+/go.sum
+/.idea/minecraftReverseProxy.iml
+/.idea/modules.xml
+/.idea/vcs.xml
